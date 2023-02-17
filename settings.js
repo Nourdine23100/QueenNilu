@@ -65,7 +65,7 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
-global.NUMBER_212_BLOCK = 'true'
+global.NUMBER_212_BLOCK = 'off'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
