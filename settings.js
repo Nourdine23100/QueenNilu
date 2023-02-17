@@ -26,7 +26,7 @@ global.owner = ['212636805294']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝓶𝓻 𝓰𝓸𝓻𝓲𝓲𝓵𝓵𝓪²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
-global.AUTO_BIO =  'off'
+global.AUTO_BIO =  'true'
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK =  'off'
 //👇 Auto react 
